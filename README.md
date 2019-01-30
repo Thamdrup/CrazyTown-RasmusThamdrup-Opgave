@@ -8,7 +8,7 @@
 
 # Phase 3
 * Udskriv "date" fra API'en i linket : https://exchangeratesapi.io
-* Vælg selv tre af de nedstående valutaer og udskriv dem.
+* Vælg selv tre af de nedstående valutaer og udskriv dem i et element.
 
 # Phase 4
 
