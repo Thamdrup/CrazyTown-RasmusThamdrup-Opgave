@@ -1,10 +1,10 @@
 # Crazytown RasmusThamdrup Opgave
 
 # Phase 1
-* Opret 2 knapper kaldet "+" "-"
+* Opret en overskrift
 
 # Phase 2
-* Tag fat i de 2 knapper og få dem til at lægge 1 til og trække 1 fra en tæller.
+* tilføj en timer, så over skriften først bliver vist efter 3 sekunder.
 
 # Phase 3
 * Udskriv "date" fra API'en i linket : https://exchangeratesapi.io
